@@ -1,0 +1,16 @@
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\Huiswerk.exe
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\Huiswerk.deps.json
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\Huiswerk.runtimeconfig.json
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\Huiswerk.runtimeconfig.dev.json
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\Huiswerk.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\ref\Huiswerk.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\bin\Debug\net5.0\Huiswerk.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.csproj.AssemblyReference.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.AssemblyInfoInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.AssemblyInfo.cs
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.csproj.CoreCompileInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\ref\Huiswerk.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Training 2-Recursion\Huiswerk\obj\Debug\net5.0\Huiswerk.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\Lesoefeningen.exe
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\Lesoefeningen.deps.json
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\Lesoefeningen.runtimeconfig.json
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\Lesoefeningen.runtimeconfig.dev.json
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\Lesoefeningen.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\ref\Lesoefeningen.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\bin\Debug\net5.0\Lesoefeningen.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.csproj.AssemblyReference.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.AssemblyInfoInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.AssemblyInfo.cs
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.csproj.CoreCompileInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\ref\Lesoefeningen.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Training 4-generics,cloning,comparable\Lesoefeningen\obj\Debug\net5.0\Lesoefeningen.genruntimeconfig.cache

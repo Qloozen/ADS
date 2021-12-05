@@ -1,0 +1,16 @@
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\Recursie.exe
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\Recursie.deps.json
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\Recursie.runtimeconfig.json
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\Recursie.runtimeconfig.dev.json
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\Recursie.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\ref\Recursie.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\bin\Debug\net5.0\Recursie.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.csproj.AssemblyReference.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.AssemblyInfoInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.AssemblyInfo.cs
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.csproj.CoreCompileInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\ref\Recursie.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Recursie\obj\Debug\net5.0\Recursie.genruntimeconfig.cache

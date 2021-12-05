@@ -1,0 +1,16 @@
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\Opdracht1.exe
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\Opdracht1.deps.json
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\Opdracht1.runtimeconfig.json
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\Opdracht1.runtimeconfig.dev.json
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\Opdracht1.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\ref\Opdracht1.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\bin\Debug\net5.0\Opdracht1.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.csproj.AssemblyReference.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfoInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfo.cs
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\ref\Opdracht1.dll
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\Tussentoets\Opdracht1\obj\Debug\net5.0\Opdracht1.genruntimeconfig.cache

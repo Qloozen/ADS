@@ -1,0 +1,16 @@
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\GeeksForGeeks.exe
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\GeeksForGeeks.deps.json
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\GeeksForGeeks.runtimeconfig.json
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\GeeksForGeeks.runtimeconfig.dev.json
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\GeeksForGeeks.dll
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\ref\GeeksForGeeks.dll
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\bin\Debug\net5.0\GeeksForGeeks.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.csproj.AssemblyReference.cache
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.AssemblyInfoInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.AssemblyInfo.cs
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.csproj.CoreCompileInputs.cache
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.dll
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\ref\GeeksForGeeks.dll
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.pdb
+C:\Users\Qiang Loozen\Desktop\ADS\GeeksForGeeks\obj\Debug\net5.0\GeeksForGeeks.genruntimeconfig.cache
